@@ -32,6 +32,8 @@ public class Arena {
                 {
                     System.out.println("В 10 раунде выиграл" + dragon2.getName());}
 
+
+
         }
 
 
